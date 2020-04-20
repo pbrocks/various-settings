@@ -1,0 +1,39 @@
+{
+	// Place your settings in this file to overwrite the default settings
+	// PHPCS
+	"phpcs.enable": true,
+	"phpcs.standard": "WordPress",
+	// Run PHP Code Beautifier and Fixer on save
+	"phpcbf.onsave": true,
+	// null, PSR1, PSR2, Symfony, WordPress etc. You can also point to a phpcs.xml rules file, eg: /file/path/phpcs.xml
+	"phpcbf.standard": "WordPress",
+	"window.zoomLevel": 1,
+	"workbench.colorTheme": "Default Light+",
+	"editor.fontSize": 14,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "persoderlind.vscode-phpcbf"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"git.autofetch": true,
+	"editor.insertSpaces": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.quickSuggestions": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"[css]": {
+	
+	},
+}
